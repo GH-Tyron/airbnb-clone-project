@@ -100,3 +100,85 @@ Key reasons include:
 - **Efficiency:** Speeds up frontend development by providing clear design references.  
 - **Collaboration:** Helps designers and developers communicate effectively using shared visual guidelines.  
 - **Scalability:** Simplifies future design updates or feature additions without breaking the overall style.  
+
+## 👥 Project Roles and Responsibilities
+
+Successful completion of the AirBnB Clone Project depends on collaboration across multiple specialized roles.  
+Each role has unique responsibilities that ensure the project meets its goals efficiently and maintains high quality throughout the development cycle.
+
+### 🧭 Project Manager
+**Responsibilities:**
+- Oversee the project timeline, milestones, and deliverables.  
+- Coordinate communication between team members and stakeholders.  
+- Monitor progress and ensure the project stays within scope and schedule.  
+- Identify risks and implement mitigation strategies.  
+
+**Contribution to Success:**
+Ensures smooth workflow, timely delivery, and alignment with project objectives.
+
+### 💻 Frontend Developers
+**Responsibilities:**
+- Implement the user interface using HTML, CSS, and JavaScript (or React).  
+- Integrate APIs and ensure data is displayed correctly on the frontend.  
+- Maintain responsive and mobile-friendly layouts.  
+- Collaborate with designers to match Figma mockups and design standards.  
+
+**Contribution to Success:**
+Transform design prototypes into functional, user-friendly web pages that enhance the overall user experience.
+
+### 🖥️ Backend Developers
+**Responsibilities:**
+- Develop and maintain server-side logic, APIs, and database connections.  
+- Ensure data integrity, security, and scalability.  
+- Implement authentication and authorization systems.  
+- Collaborate with frontend developers to integrate APIs efficiently.  
+
+**Contribution to Success:**
+Provide a reliable backend infrastructure that powers core application functionalities.
+
+### 🎨 Designers
+**Responsibilities:**
+- Create mockups, wireframes, and interactive prototypes in Figma.  
+- Define color palettes, typography, and component styles.  
+- Maintain visual consistency and accessibility standards.  
+- Work closely with developers to ensure accurate design implementation.  
+
+**Contribution to Success:**
+Ensure the product’s visual appeal and usability meet user expectations and brand standards.
+
+### 🧪 QA/Testers
+**Responsibilities:**
+- Develop test cases for both frontend and backend features.  
+- Perform unit, integration, and user acceptance testing.  
+- Identify and report bugs, inconsistencies, or performance issues.  
+- Verify fixes before deployment.  
+
+**Contribution to Success:**
+Guarantee the delivery of a high-quality, bug-free product that meets functional requirements.
+
+### ⚙️ DevOps Engineers
+**Responsibilities:**
+- Set up and manage the deployment pipeline (CI/CD).  
+- Configure servers and handle cloud-based infrastructure.  
+- Automate build, testing, and deployment processes.  
+- Monitor system performance and ensure uptime reliability.  
+
+**Contribution to Success:**
+Ensure efficient deployment, scalability, and continuous delivery for smooth application operations.
+
+### 🧑‍💼 Product Owner
+**Responsibilities:**
+- Define project vision, objectives, and success criteria.  
+- Prioritize features and manage the product backlog.  
+- Communicate requirements to the development team.  
+- Ensure that deliverables meet stakeholder expectations.  
+
+**Contribution to Success:**
+Acts as the voice of the user and ensures that the final product provides maximum business value.
+
+### 🧑‍🏫 Scrum Master
+**Responsibilities:**
+- Facilitate daily stand-ups, sprint planning, and retrospectives.  
+- Remove blockers and obstacles affecting team progress.  
+- Promote agile principles and continuous improvement.  
+- Track sprint progress and encourage team collaboration.  
