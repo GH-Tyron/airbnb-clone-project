@@ -182,3 +182,58 @@ Acts as the voice of the user and ensures that the final product provides maximu
 - Remove blockers and obstacles affecting team progress.  
 - Promote agile principles and continuous improvement.  
 - Track sprint progress and encourage team collaboration.  
+
+## 🧩 UI Component Patterns
+
+The **UI Component Patterns** define the reusable and consistent visual elements that will be used throughout the AirBnB Clone Project.  
+These components help maintain design consistency, improve development efficiency, and enhance user experience across all pages.
+
+### 🧭 Navbar
+**Description:**  
+The **Navbar (Navigation Bar)** serves as the primary navigation component of the application. It provides quick access to key pages and user functionalities.
+
+**Planned Features:**
+- Application **logo** that redirects to the homepage.  
+- **Search bar** for quick property searches.  
+- **Navigation links** (e.g., Home, Listings, About, Contact).  
+- **User menu** for login, signup, and profile options.  
+- **Responsive layout** that adjusts for desktop, tablet, and mobile views.
+
+**Purpose:**  
+Ensures easy and intuitive navigation across the platform, helping users quickly find desired pages or actions.
+
+### 🏡 Property Card
+**Description:**  
+The **Property Card** component displays essential property information in a visually appealing format. It will be used on the listing pages and search results.
+
+**Planned Features:**
+- **Property image** (main photo).  
+- **Title** or short property description.  
+- **Price per night** or total stay cost.  
+- **Location and rating** information.  
+- **Favorite/like button** for saving preferred listings.  
+- **Responsive grid layout** for various screen sizes.
+
+**Purpose:**  
+Provides users with a clear and attractive summary of available properties, encouraging exploration and booking.
+
+### ⚓ Footer
+**Description:**  
+The **Footer** component appears at the bottom of every page, providing essential information and quick links.
+
+**Planned Features:**
+- **Company information** (e.g., About Us, Contact, Careers).  
+- **Useful site links** (e.g., Privacy Policy, Terms of Service).  
+- **Social media icons** linking to official pages.  
+- **Copyright notice**.  
+- **Consistent styling** that complements the overall color scheme.
+
+**Purpose:**  
+Improves navigation, offers credibility, and provides easy access to legal and contact information while maintaining visual balance at the bottom of each page.
+
+### 💡 Importance of Component Patterns
+Using reusable UI components ensures:
+- **Consistency:** Uniform design and behavior across pages.  
+- **Scalability:** Easier updates and maintenance of UI elements.  
+- **Efficiency:** Faster development and cleaner code through reuse.  
+- **Accessibility:** Consistent user interaction patterns enhance usability for all users.
